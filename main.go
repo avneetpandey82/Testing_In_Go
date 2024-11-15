@@ -15,4 +15,5 @@ func main() {
 	fmt.Println(`Addition: `, Add(2024, 132143))
 	fmt.Println(`Subtraction: `, Add(2, 2))
 	fmt.Println(`Multiplication: `, Mul(10, 30))
+	//test
 }
